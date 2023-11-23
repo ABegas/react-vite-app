@@ -1,0 +1,18 @@
+.form {    
+    width: 100%;
+    margin: 10px 0 30px; 
+}
+
+.form input {
+    width: 100%;
+    border: 1px solid transparent;
+    padding: 15px 0;
+    text-indent: 15px;
+    outline: none;
+    transition: all 0.3s;
+    margin-bottom: 10px;
+}
+
+.form input:focus {
+    border: 1px solid green;
+}
